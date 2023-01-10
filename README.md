@@ -93,13 +93,13 @@ Using your knowledge of PySpark, Pandas, or SQL, you’ll determine if there is 
 
 
 # Deliverable 3:
-## T-Tests on Suspension Coils
-### Overview
+##  A Written Report on the Analysis 
+### Overview of Analysis 
 
-### Summary
 
-- The whole population dataset of the production lot shows a variance of the coils as 62.3 PSI and this is within the 100 PSI variace requirement.
-- Lot 1 and 2 also show a variance of approximately 1 and 7.5 PSI respectively. These lots are within the 100 PSI  variance requirement. However, Lot 3 shows a larger variance of 170.29 which is greater than the PSI requirement.
+### Results
+
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/reviews%20and%20pct%20of%20reviews.jpg)
 
 ![image](https://github.com/ras52017/MechaCar_Statistical_Analysis/blob/main/Images/PSI%20each%20indicdiual%20Lot.jpg)
 
