@@ -25,11 +25,27 @@ Using your knowledge of the cloud ETL process, you’ll create an AWS RDS databa
 
 ### Results
 
+An Amazon Review dataset is extracted as a DataFrame (used the Home_Improvement dataset)
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/Query%20to%20call%20each%20table.jpg)
+
 ####The review_id_table DataFrame
 
-![image](https://github.com/ras52017/MechaCar_Statistical_Analysis/blob/main/Images/linear%20regression%20model..jpg)
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/review_id_df.jpg)
 
-## MPG = (6.267) vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD + (-104.0)
+
+####The products_table DataFrame
+
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/products_df.jpg)
+
+
+####The customers_table DataFrame
+
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/customers_df.jpg)
+
+####The vine_table DataFrame
+
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/products_df.jpg)
+
 
 #### Summary
 
@@ -39,7 +55,7 @@ Using your knowledge of the cloud ETL process, you’ll create an AWS RDS databa
 
 - The regression model's r squared value  of 0.7149. Thia indicates approximately 71% of all MPG predictions will be determined by this model.
 
-
+![image](https://github.com/ras52017/MechaCar_Statistical_Analysis/blob/main/Images/linear%20regression%20model..jpg)
 # Deliverable 2:
 ## Determine Bias of Vine Reviews
 ### Overview
