@@ -100,7 +100,7 @@ Using your knowledge of PySpark, Pandas, or SQL, you’ll determine if there is 
 
 Per the summary,
 
-There is a total number of reviews of 2,634,537. Of this number, 1,656,481 vine stars with a rating of 5 stars. and 978,056 reviews that did not have a 5 star rating. Paid vine star with a 5 star rating is 125, unpaid vine 5 star ratings is 18,246. There were 1,638,110 who do not fall under the category of paid or unpdaid but had 5 stars. Also, just about 0.1% of reviewers constitute the paid vine category and 1.1% constitute the unpaid category.
+There is a total number of reviews of 2,634,537. Of this number, 1,656,481 vine stars with a rating of 5 stars. and 978,056 reviews that did not have a 5 star rating. Paid vine star with a 5 star rating is 125, unpaid vine 5 star ratings is 18,246. There were 1,638,110 who do not fall under the category of paid or unpdaid but had 5 stars. Also, just about 0.1% of reviewers constitute the paid vine category and 1.1% constitute the unpaid category. There is no bias in my opinion since the paid and unpaid cocategories together constitutes less than 2% of the total 5 star vine reviewers. It will be interesting to know how long the reviewers have been vine members to understan how that can impact their decision to review or otherwise.
 
 
 
