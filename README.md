@@ -87,7 +87,7 @@ Using your knowledge of PySpark, Pandas, or SQL, you’ll determine if there is 
 
 ### Results
 
-![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/unpaid_vine_reviews_df.jpg)
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/reviews%20and%20pct%20of%20reviews.jpg)
 
 
 
