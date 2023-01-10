@@ -94,12 +94,15 @@ Using your knowledge of PySpark, Pandas, or SQL, you’ll determine if there is 
 
 # Deliverable 3:
 ##  A Written Report on the Analysis 
-### Overview of Analysis 
+### Summary
+
 ![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/Summary.jpg)
 
-### Results
+Per the summary,
 
-![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/reviews%20and%20pct%20of%20reviews.jpg)
+There is a total number of reviews of 2,634,537. Of this number, 1,656,481 vine stars with a rating of 5 stars. and 978,056 reviews that did not have a 5 star rating. Paid vine star with a 5 star rating is 125, unpaid vine 5 star ratings is 18,246. There were 1,638,110 who do not fall under the category of paid or unpdaid but had 5 stars. Also, just about 0.1% of reviewers constitute the paid vine category and 1.1% constitute the unpaid category.
+
+
 
 
 
