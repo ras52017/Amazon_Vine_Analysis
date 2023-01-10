@@ -95,12 +95,12 @@ Using your knowledge of PySpark, Pandas, or SQL, you’ll determine if there is 
 # Deliverable 3:
 ##  A Written Report on the Analysis 
 ### Overview of Analysis 
-
+![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/Summary.jpg)
 
 ### Results
 
 ![image](https://github.com/ras52017/Amazon_Vine_Analysis/blob/main/Images/reviews%20and%20pct%20of%20reviews.jpg)
 
-![image](https://github.com/ras52017/MechaCar_Statistical_Analysis/blob/main/Images/PSI%20each%20indicdiual%20Lot.jpg)
+
 
 
